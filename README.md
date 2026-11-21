@@ -97,8 +97,7 @@ It demonstrates how frontend development can be applied to digital commerce, onl
 
 Software Developer | Web Designer | UI/UX Enthusiast
 
-- **GitHub:** [Your GitHub Profile](https://github.com/YOUR_USERNAME)
-
+- **GitHub:** https://github.com/Joseph-Gana/scopesnap
 ---
 
 *Designed and developed as a practical frontend development portfolio project.*
